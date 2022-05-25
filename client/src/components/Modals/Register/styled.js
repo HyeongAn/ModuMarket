@@ -269,6 +269,7 @@ export const LocationButtonWrap = styled.div`
         height : 1.95rem;
         padding : 0;
         border: none;
+        background-color : #F4F4F4;
         border-radius: 4px;
         font-size: 0.9rem;
         font-weight : 700;

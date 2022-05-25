@@ -50,6 +50,10 @@ export const Button = styled.div`
     
 `
 export const HeadButton = styled.div`
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
     background-color: ${(props) => 
         props.background === "#FF6767" ? "#FF6767" : "white"   
     };
